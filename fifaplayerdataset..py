@@ -87,9 +87,9 @@ print(en_yaxsi_veteranlar[['Name', 'Team', 'Age', 'Overall_Rating', 'Duration']]
 print("=" * 65)
 
 df['Growth'] = df['Potential'] - df['Overall_Rating']
-en_potensialli_genceler = df[df['Age'] < 22].nlargest(10, 'Growth')
+en_potensialli_gencler = df[df['Age'] < 22].nlargest(10, 'Growth')
 print("=" * 75)
 print("          KARYERA REJİMİ ÜÇÜN ƏN ÇOX İNKİŞAF EDƏCƏK GƏNC TALANTLAR")
 print("=" * 75)
-print(en_potensialli_genceler[['Name', 'Team', 'Age', 'Overall_Rating', 'Potential', 'Growth']].to_string(index=False))
+print(en_potensialli_gencler[['Name', 'Team', 'Age', 'Overall_Rating', 'Potential', 'Growth']].to_string(index=False))
 print("=" * 75)
