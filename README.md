@@ -11,7 +11,7 @@ Data Analysis with Python and Python's tools.
 ---
 
 ### 📋 Layihə haqqında
-Bu repozitoriyada mən **Baku Engineering University**-də öyrəndiyim Python proqramlaşdırma və data analitikası sahəsindəki layihələrimi və tapşırıqlarımı toplayıram.
+Bu repozitoriyada mən **Baku Engineering University** və self-study təcrübəmə əsaslanaraq Python proqramlaşdırma və data analitikası sahəsindəki layihələrimi və tapşırıqlarımı toplayıram.
 
 *   **Əsas maraqlarım:** NumPy və Pandas ilə məlumatların analizi.
 *   **Məqsədim:** Praktiki bacarıqlarımı inkişaf etdirmək və real dünya məsələlərini kod vasitəsilə həll etmək.
